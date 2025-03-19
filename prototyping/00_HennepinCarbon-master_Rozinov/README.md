@@ -16,3 +16,6 @@ The current repo contains carbon storage and sequestration analysis for Hennepin
 
 ## Contributors
 Aleksei Rozanov
+
+# Original Archived Repository
+https://github.com/RTGS-Lab/HennepinCarbon
