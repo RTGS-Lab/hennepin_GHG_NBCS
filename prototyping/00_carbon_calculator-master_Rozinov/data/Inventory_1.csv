@@ -1,0 +1,9 @@
+land_cover,storage,storage_units,sequestration,sequestration_units,source_storage,source_seq
+Agro,107.7,Mg C ha-1,1.25,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Forest,133,Mg C ha-1,3.2,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Grassland,61.3,Mg C ha-1,0.24,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Heathland,110.3,Mg C ha-1,0.02,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Shrub,33.5,Mg C ha-1,0.15,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Sparsely vegetated,69.7,Mg C ha-1,0.02,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Wetland,261.8,Mg C ha-1,1.01,Mg C ha-1 yr-1,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75,https://www.eea.europa.eu/en/datahub/datahubitem-view/319eec5c-4aad-49ba-8b5a-a815372fcc75
+Urban,44.1,Mg C ha-1,0.81,Mg C ha-1 yr-1,https://www.sciencedirect.com/science/article/pii/S0269749113001383?ref=pdf_download&fr=RR-2&rr=8c2291997bd4ace2,https://www.sciencedirect.com/science/article/pii/S0269749113001383?ref=pdf_download&fr=RR-2&rr=8c2291997bd4ace2
