@@ -1,0 +1,6 @@
+[submodule "prototyping/carbon_calculator"]
+	path = prototyping/carbon_calculator
+	url = https://github.com/RTGS-Lab/carbon_calculator
+[submodule "prototyping/HennepinCarbon"]
+	path = prototyping/HennepinCarbon
+	url = https://github.com/RTGS-Lab/HennepinCarbon
